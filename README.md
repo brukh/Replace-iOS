@@ -14,7 +14,7 @@ I'm designer,my code skill is not well.What I can do is just do some fake protot
 
 ![Prototype](https://github.com/MartinRGB/Replace-iOS/blob/master/Asset/Parallax-QC.gif?raw=true)
 
-this is Origami Prototye 
+this is Origami Prototype
 
 ![Effect](https://github.com/MartinRGB/Replace-iOS/blob/master/1.gif?raw=true)
 
